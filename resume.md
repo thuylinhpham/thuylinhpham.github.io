@@ -5,8 +5,6 @@ layout: "page"
 icon: fa-briefcase
 order: 3
 ---
-
-<br/>
 M.S-Ph.D. integrated student<br/>
 Electroceramics Laboratory <br/>
 Room 211, Engineering Building No.6 <br/>
