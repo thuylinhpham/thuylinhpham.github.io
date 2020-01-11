@@ -3,7 +3,6 @@ title: About me
 icon: fa-user
 order: 3
 ---
-<a href="#" class="image featured"><img src="assets/images/avatar.jpg" alt="" /></a>
 
 Hmm, what should I write about myself? I guess the whole point is to be honest then okay. I was born on 19th August 1992 so basically I am 28 years old. 28, it means that I am not a teenager anymore nor an adult. While my friends are all having their own families with their cute children, I am still trying to figure out what should I do in my life, something like what I'll eat for dinner, is my work in the lab good enough, etc? Well, I haven't mentioned that I am doing a Ph.D. in Materials Science and Engineering in South Korea, and next year I'll graduate. What'll happen after that I am quite not sure. I am excited about this day but also afraid of it. The day I graduate is the day I am no longer a student, I become something else. I'll have to find a job to take care of not only myself but also my parents. They are getting old and it's time for me to give them back all the incredible things that they sacrificed for me. I know I am a good, hard-working student and I am smart so things 'll be fine. However, we cannot say anything about the future, right? All of the randomness and responsibilities are waiting for me ahead, wish I could have "magic beans" like Rachael in "Friends" sitcom when she was just a waitress and had no idea about her life. 
 
