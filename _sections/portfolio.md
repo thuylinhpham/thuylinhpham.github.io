@@ -1,5 +1,5 @@
 ---
 title: Portfolio
-icon: fa-th
+icon: fa-briefcase
 order: 2
 ---
