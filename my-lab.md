@@ -16,8 +16,6 @@ Chonnam National University, Gwangju, Korea <br/>
 <a href="thuylinhbkhn@gmail.com">thuylinhbkhn@gmail.com</a> - +82-62-530-0771/ +82-10-8991-0819
 
 <div id="webaddress">
-  <a href="https://thuylinhpham.github.io"><i class="fas fa-home"></i> https://thuylinhpham.github.io</a> - 
-  <a href="https://github.com/thuylinhpham"><i class="fab fa-github"></i> thuylinhpham</a> - <br/>
   <a href="https://sites.google.com/site/jnuelectroceramics"><i class="fas fa-users"></i> Electroceramics Laboratory (group)</a><br/>
 </div>
 
