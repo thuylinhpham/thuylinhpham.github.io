@@ -18,7 +18,7 @@ Chonnam National University, Gwangju, Korea <br/>
 </div>
 
 ## Education
-<br/>
+
 `2015-Present`
 **M.S-Ph.D., Materials Science and Engineering**, *Chonnam National University*, Buk-gu, Gwangju, Korea.
 
