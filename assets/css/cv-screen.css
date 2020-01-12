@@ -63,10 +63,10 @@ body {
 
 p {
 	position: relative;
-	left: 25%;
+	left: 5%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: 75%;
 }
 
 code {
@@ -138,7 +138,7 @@ h2 {
 	color: #bc412b;
 	margin-top: 3em;
 	position: relative;
-	top: 1.4em;
+	top: 0.1em;
 	text-align: right;
 	width: 20%;
 }
