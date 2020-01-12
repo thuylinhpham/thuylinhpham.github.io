@@ -64,7 +64,7 @@ body {
 p {
 	position: relative;
 	left: 5%;
-	margin-bottom: 0.7em;
+	margin-bottom: 0.3em;
 	margin-right: 0;
 	width: 75%;
 	text-align: justify;
@@ -139,6 +139,7 @@ h2 {
 	font-size: 1.1em;
 	color: #bc412b;
 	margin-top: 3em;
+	margin-bottom: 0.3em;
 	position: relative;
 	top: 0.1em;
 	left: 5%;
@@ -167,7 +168,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	left: 5%;
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
