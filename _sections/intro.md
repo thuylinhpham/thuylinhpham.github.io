@@ -7,4 +7,4 @@ icon: fa-comment
 order: 1
 ---
 
-Welcome to my personal site.
+<p align="center"> Welcome to my personal site. </p>
