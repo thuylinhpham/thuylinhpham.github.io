@@ -66,7 +66,7 @@ p {
 	left: 5%;
 	margin-bottom: 0.3em;
 	margin-right: 0;
-	width: 70%;
+	width: 75%;
 	text-align: justify;
   	text-justify: inter-word;
 }
@@ -82,7 +82,7 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -25%;
+	right: -10%;
 }
 
 
