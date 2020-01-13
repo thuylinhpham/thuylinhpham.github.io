@@ -72,12 +72,14 @@ Chonnam National University, Gwangju, Korea <br/>
 **Impedance spectroscopy on dual-phase composites: LSCF vs. LSM in GDC matrix below percolation threshold**, *Inorganic Membrance School*, September 23-25, 2015, Valencia, **Spain**. *Poster presentation*.
 
 ## Publications
+`2020`
+J.-H. Lee, G.-J. Lee, **T. L. Pham**, J.-S. Lee,  W. Jo, Suppression of dielectric loss at high temperatures in (Bi1/2Na1/2)TiO3 ceramic by controlling A-site cation deficiency and heat treatment, J. Sens. Sci. Technol., submitted.
 
 `2020`
 M. Meng, P. G. Le, E. Uwiragiye, **T. L. Pham**, J. G. Fisher, J.-S. Lee, B. W. Lee, J. H. Ko, H. P. Kim, W. Jo,  Growth of 0.96(K0.48Na0.52)(Nb0.95Sb0.05)O3-0.04Bi0.5(Na0.82K0.18)0.5ZrO3 lead-free piezoelectric single crystals by solid state crystal growth and their characterization, J. Korean Ceram. Soc., submitted.
 
 `2020`
-S. Y. Cho, E.-Y. Kim, S. Y. Kim, **T. L. Pham**, J. K. Han, D. S. Song, H.-K. Jung, J.-S. Lee, K.-S. An, J. Lim, S. D. Bu*, Relaxor Phase Evolution of (Bi0.5Na0.5-xKx)TiO3 Ceramics due to K Ion Substitution and their Corresponding Electrical Properties. Energies, submitted.
+S. Y. Cho, E.-Y. Kim, S. Y. Kim, **T. L. Pham**, J. K. Han, D. S. Song, H.-K. Jung, J.-S. Lee, K.-S. An, J. Lim, S. D. Bu, Relaxor Phase Evolution of (Bi0.5Na0.5-xKx)TiO3 Ceramics due to K Ion Substitution and their Corresponding Electrical Properties, Energies, submitted.
 
 `2018`
 S. C. Eum, D. S. Kim, **T. L. Pham**, J.-S. Lee, & J. K. Lee, Synthesis of Nanoscale Fully Stabilized Zirconia Powders by Urea Hydrolysis, Sintering and Electrical Characterization, Journal of nanoscience and nanotechnology, 18(3), 2001-2005 (2018). <a href="https://doi.org/10.1166/jnn.2018.14939">DOI:10.1166/jnn.2018.14939</a>
