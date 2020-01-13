@@ -21,11 +21,11 @@ Chonnam National University, Gwangju, Korea <br/>
 
 `2015-Present`
 **M.S-Ph.D., Materials Science and Engineering**, *Chonnam National University*, Buk-gu, Gwangju, Korea.
- <a href="https:https://global.jnu.ac.kr/jnumain_en.aspx"></a><br/>
+ <a href="https://global.jnu.ac.kr/jnumain_en.aspx"></a><br/>
 
 `2010-2015`
 **B.E., Chemical Engineering**, *Hanoi University of Science and Technology*, Hanoi, Vietnam. <br/>
- <a href="https://https://en.hust.edu.vn/"></a><br/>
+ <a href="https://en.hust.edu.vn/"></a><br/>
 </div>
 
 ## Scholarships
