@@ -24,7 +24,7 @@ Chonnam National University, Gwangju, Korea <br/>
  <a href="https://global.jnu.ac.kr/jnumain_en.aspx">https://global.jnu.ac.kr/jnumain_en.aspx</a><br/>
 
 `2010-2015`
-**B.E., Chemical Engineering**, *Hanoi University of Science and Technology*, Hanoi, Vietnam.
+**B.E., Chemical Engineering**, *Hanoi University of Science and Technology*, Hanoi, Vietnam.<br/>
  <a href="https://en.hust.edu.vn/">https://en.hust.edu.vn</a><br/>
 
 ## Scholarships
