@@ -81,7 +81,7 @@ J.-H. Lee, G.-J. Lee, **T. L. Pham**, J.-S. Lee,  W. Jo, Suppression of dielectr
 M. Meng, P. G. Le, E. Uwiragiye, **T. L. Pham**, J. G. Fisher, J.-S. Lee, B. W. Lee, J. H. Ko, H. P. Kim, W. Jo,  Growth of 0.96(K0.48Na0.52)(Nb0.95Sb0.05)O3-0.04Bi0.5(Na0.82K0.18)0.5ZrO3 lead-free piezoelectric single crystals by solid state crystal growth and their characterization, J. Korean Ceram. Soc., submitted.
 
 `2020`
-S. Y. Cho, E.-Y. Kim, S. Y. Kim, **T. L. Pham**, J. K. Han, D. S. Song, H.-K. Jung, J.-S. Lee, K.-S. An, J. Lim, S. D. Bu, Relaxor phase evolution of (Bi0.5Na0.5-xKx)TiO3 ceramics due to K ion substitution and their corresponding electrical properties, Energies, submitted.
+S. Y. Cho, E.-Y. Kim, S. Y. Kim, **T. L. Pham**, J. K. Han, D. S. Song, H.-K. Jung, J.-S. Lee, K.-S. An, J. Lim, S. D. Bu, Relaxor phase evolution of (Bi0.5Na0.5-xKx)TiO3 ceramics due to K ion substitution and their corresponding electrical properties, Energies, accepted.
 
 `2018`
 S. C. Eum, D. S. Kim, **T. L. Pham**, J.-S. Lee, & J. K. Lee, Synthesis of nanoscale fully stabilized zirconia powders by urea hydrolysis, sintering and electrical characterization, J. Nanosci. Nanotechnol., 18(3), 2001-2005 (2018). <a href="https://doi.org/10.1166/jnn.2018.14939">DOI:10.1166/jnn.2018.14939</a>
