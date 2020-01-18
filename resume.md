@@ -37,7 +37,7 @@ Chonnam National University, Gwangju, Korea <br/>
 
 `Jan 12-20, 2015`
 **Japan-East Asia Network of Exchange for Students and Youths 2.0**, *Kobe University, Japan*
-<a href="https: www.mofa.go.jp/p_pd/ep/page22e_000701.html">https://www.mofa.go.jp/p_pd/ep/page22e_000701.html</a><br/>
+<a href="https://www.mofa.go.jp/p_pd/ep/page22e_000701.html">https://www.mofa.go.jp/p_pd/ep/page22e_000701.html</a><br/>
 
 ## Conferences
 
