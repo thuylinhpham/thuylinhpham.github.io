@@ -91,7 +91,7 @@ S. Y. Cho, E.-Y. Kim, S. Y. Kim, **T. L. Pham**, J. K. Han, D. S. Song, H.-K. Ju
 S. C. Eum, D. S. Kim, **T. L. Pham**, J.-S. Lee, J. K. Lee*, Synthesis of nanoscale fully stabilized zirconia powders by urea hydrolysis, sintering and electrical characterization, J. Nanosci. Nanotechnol., 18(3), 2001-2005 (2018). <a href="https://doi.org/10.1166/jnn.2018.14939">DOI:10.1166/jnn.2018.14939</a>
 
 `2017`
-E. Uwiragiye, M. U. Farooq, S.-H. Moon, **T. L. Pham**, D. T. Nguyen, J.-S. Lee, J. G. Fisher*, High performance lead-free piezoelectric 0.96(K0.48Na0.52)NbO3-0.03[Bi0.5(Na0.7K0.2Li0.1)0.5]ZrO3-0.01(Bi0.5Na0.5)TiO3 single crystals grown by solid state crystal growth and their phase relations, J. Eur. Ceram. Soc. 37 4597-4607 (2017). <a href="https://doi.org/10.1016/j.jeurceramsoc.2017.06.015">DOI:10.1016/j.jeurceramsoc.2017.06.015</a>
+E. Uwiragiye, M. U. Farooq, S.-H. Moon, **T. L. Pham**, D. T. Nguyen, J.-S. Lee*, J. G. Fisher*, High performance lead-free piezoelectric 0.96(K0.48Na0.52)NbO3-0.03[Bi0.5(Na0.7K0.2Li0.1)0.5]ZrO3-0.01(Bi0.5Na0.5)TiO3 single crystals grown by solid state crystal growth and their phase relations, J. Eur. Ceram. Soc. 37 4597-4607 (2017). <a href="https://doi.org/10.1016/j.jeurceramsoc.2017.06.015">DOI:10.1016/j.jeurceramsoc.2017.06.015</a>
 
 `2016`
 D. Lee, H. Vu, H. Sun, **T. L. Pham**, D. T. Nguyen, J.-S. Lee, J. G. Fisher*, Growth of (Na0.5Bi0.5)TiO3-SrTiO3 single crystals by solid state crystal growth, Ceram. Int. 42 18894-18901 (2016). <a href="https://doi.org/10.1016/10.1016/j.ceramint.2016.09.038">DOI:10.1016/j.ceramint.2016.09.038</a>
