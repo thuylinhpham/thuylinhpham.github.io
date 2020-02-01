@@ -88,7 +88,7 @@ M. Meng, P. G. Le, E. Uwiragiye, **T. L. Pham**, J. G. Fisher*, J.-S. Lee, B. W.
 S. Y. Cho, E.-Y. Kim, S. Y. Kim, **T. L. Pham**, J. K. Han, D. S. Song, H.-K. Jung, J.-S. Lee, K.-S. An, J. Lim, S. D. Bu*, Relaxor phase evolution of (Bi0.5Na0.5-xKx)TiO3 ceramics due to K ion substitution and their corresponding electrical properties, Energies, 13(2), 455 (2020). <a href="https://doi.org/10.3390/en13020455">DOI:10.3390/en13020455</a> 
 
 `2018`
-S. C. Eum, D. S. Kim, **T. L. Pham**, J.-S. Lee, & J. K. Lee*, Synthesis of nanoscale fully stabilized zirconia powders by urea hydrolysis, sintering and electrical characterization, J. Nanosci. Nanotechnol., 18(3), 2001-2005 (2018). <a href="https://doi.org/10.1166/jnn.2018.14939">DOI:10.1166/jnn.2018.14939</a>
+S. C. Eum, D. S. Kim, **T. L. Pham**, J.-S. Lee, J. K. Lee*, Synthesis of nanoscale fully stabilized zirconia powders by urea hydrolysis, sintering and electrical characterization, J. Nanosci. Nanotechnol., 18(3), 2001-2005 (2018). <a href="https://doi.org/10.1166/jnn.2018.14939">DOI:10.1166/jnn.2018.14939</a>
 
 `2017`
 E. Uwiragiye, M. U. Farooq, S.-H. Moon, **T. L. Pham**, D. T. Nguyen, J.-S. Lee, J. G. Fisher*, High performance lead-free piezoelectric 0.96(K0.48Na0.52)NbO3-0.03[Bi0.5(Na0.7K0.2Li0.1)0.5]ZrO3-0.01(Bi0.5Na0.5)TiO3 single crystals grown by solid state crystal growth and their phase relations, J. Eur. Ceram. Soc. 37 4597-4607 (2017). <a href="https://doi.org/10.1016/j.jeurceramsoc.2017.06.015">DOI:10.1016/j.jeurceramsoc.2017.06.015</a>
