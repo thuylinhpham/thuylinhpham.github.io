@@ -76,22 +76,25 @@ Chonnam National University, Gwangju, Korea <br/>
 
 ## Publications
 `2020`
-J.-H. Lee, G.-J. Lee, **T. L. Pham**, J.-S. Lee,  W. Jo, Suppression of dielectric loss at high temperatures in (Bi1/2Na1/2)TiO3 ceramic by controlling A-site cation deficiency and heat treatment, J. Sens. Sci. Technol., submitted.
+J. W. Sul, Y. Kim*, **T. L. Pham**, J.-S. Lee, Syntheses and characterizations of complex perovskite oxynitrides, (Ca,Sr,Ba)TaO2N, J. Korean Ceram. Soc., submitted. 
 
 `2020`
-M. Meng, P. G. Le, E. Uwiragiye, **T. L. Pham**, J. G. Fisher, J.-S. Lee, B. W. Lee, J. H. Ko, H. P. Kim, W. Jo,  Growth of 0.96(K0.48Na0.52)(Nb0.95Sb0.05)O3-0.04Bi0.5(Na0.82K0.18)0.5ZrO3 lead-free piezoelectric single crystals by solid state crystal growth and their characterization, J. Korean Ceram. Soc., submitted.
+J.-H. Lee, G.-J. Lee, **T. L. Pham**, J.-S. Lee,  W. Jo*, Suppression of dielectric loss at high temperatures in (Bi1/2Na1/2)TiO3 ceramic by controlling A-site cation deficiency and heat treatment, J. Sens. Sci. Technol., submitted.
 
 `2020`
-S. Y. Cho, E.-Y. Kim, S. Y. Kim, **T. L. Pham**, J. K. Han, D. S. Song, H.-K. Jung, J.-S. Lee, K.-S. An, J. Lim, S. D. Bu, Relaxor phase evolution of (Bi0.5Na0.5-xKx)TiO3 ceramics due to K ion substitution and their corresponding electrical properties, Energies, 13(2), 455 (2020). <a href="https://doi.org/10.3390/en13020455">DOI:10.3390/en13020455</a> 
+M. Meng, P. G. Le, E. Uwiragiye, **T. L. Pham**, J. G. Fisher*, J.-S. Lee, B. W. Lee, J. H. Ko, H. P. Kim, W. Jo,  Growth of 0.96(K0.48Na0.52)(Nb0.95Sb0.05)O3-0.04Bi0.5(Na0.82K0.18)0.5ZrO3 lead-free piezoelectric single crystals by solid state crystal growth and their characterization, J. Korean Ceram. Soc., submitted.
+
+`2020`
+S. Y. Cho, E.-Y. Kim, S. Y. Kim, **T. L. Pham**, J. K. Han, D. S. Song, H.-K. Jung, J.-S. Lee, K.-S. An, J. Lim, S. D. Bu*, Relaxor phase evolution of (Bi0.5Na0.5-xKx)TiO3 ceramics due to K ion substitution and their corresponding electrical properties, Energies, 13(2), 455 (2020). <a href="https://doi.org/10.3390/en13020455">DOI:10.3390/en13020455</a> 
 
 `2018`
-S. C. Eum, D. S. Kim, **T. L. Pham**, J.-S. Lee, & J. K. Lee, Synthesis of nanoscale fully stabilized zirconia powders by urea hydrolysis, sintering and electrical characterization, J. Nanosci. Nanotechnol., 18(3), 2001-2005 (2018). <a href="https://doi.org/10.1166/jnn.2018.14939">DOI:10.1166/jnn.2018.14939</a>
+S. C. Eum, D. S. Kim, **T. L. Pham**, J.-S. Lee, & J. K. Lee*, Synthesis of nanoscale fully stabilized zirconia powders by urea hydrolysis, sintering and electrical characterization, J. Nanosci. Nanotechnol., 18(3), 2001-2005 (2018). <a href="https://doi.org/10.1166/jnn.2018.14939">DOI:10.1166/jnn.2018.14939</a>
 
 `2017`
-E. Uwiragiye, M. U. Farooq, S.-H. Moon, **T. L. Pham**, D. T. Nguyen, J.-S. Lee, J. G. Fisher, High performance lead-free piezoelectric 0.96(K0.48Na0.52)NbO3-0.03[Bi0.5(Na0.7K0.2Li0.1)0.5]ZrO3-0.01(Bi0.5Na0.5)TiO3 single crystals grown by solid state crystal growth and their phase relations, J. Eur. Ceram. Soc. 37 4597-4607 (2017). <a href="https://doi.org/10.1016/j.jeurceramsoc.2017.06.015">DOI:10.1016/j.jeurceramsoc.2017.06.015</a>
+E. Uwiragiye, M. U. Farooq, S.-H. Moon, **T. L. Pham**, D. T. Nguyen, J.-S. Lee, J. G. Fisher*, High performance lead-free piezoelectric 0.96(K0.48Na0.52)NbO3-0.03[Bi0.5(Na0.7K0.2Li0.1)0.5]ZrO3-0.01(Bi0.5Na0.5)TiO3 single crystals grown by solid state crystal growth and their phase relations, J. Eur. Ceram. Soc. 37 4597-4607 (2017). <a href="https://doi.org/10.1016/j.jeurceramsoc.2017.06.015">DOI:10.1016/j.jeurceramsoc.2017.06.015</a>
 
 `2016`
-D. Lee, H. Vu, H. Sun, **T. L. Pham**, D. T. Nguyen, J.-S. Lee, J. G. Fisher, Growth of (Na0.5Bi0.5)TiO3-SrTiO3 single crystals by solid state crystal growth, Ceram. Int. 42 18894-18901 (2016). <a href="https://doi.org/10.1016/10.1016/j.ceramint.2016.09.038">DOI:10.1016/j.ceramint.2016.09.038</a>
+D. Lee, H. Vu, H. Sun, **T. L. Pham**, D. T. Nguyen, J.-S. Lee, J. G. Fisher*, Growth of (Na0.5Bi0.5)TiO3-SrTiO3 single crystals by solid state crystal growth, Ceram. Int. 42 18894-18901 (2016). <a href="https://doi.org/10.1016/10.1016/j.ceramint.2016.09.038">DOI:10.1016/j.ceramint.2016.09.038</a>
 
 ## Languages
 
