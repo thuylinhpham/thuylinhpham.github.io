@@ -79,7 +79,7 @@ Chonnam National University, Gwangju, Korea <br/>
 J. W. Sul, Y. Kim*, **T. L. Pham**, J.-S. Lee, Syntheses and characterizations of complex perovskite oxynitrides, (Ca,Sr,Ba)TaO2N, J. Korean Ceram. Soc., submitted. 
 
 `2020`
-J.-H. Lee, G.-J. Lee, **T. L. Pham**, J.-S. Lee,  W. Jo*, Suppression of dielectric loss at high temperatures in (Bi1/2Na1/2)TiO3 ceramic by controlling A-site cation deficiency and heat treatment, J. Sens. Sci. Technol., submitted.
+J.-H. Lee, G.-J. Lee, **T.-L. Pham**, J.-S. Lee,  W. Jo*, Suppression of dielectric loss at high temperatures in (Bi1/2Na1/2)TiO3 ceramic by controlling A-site cation deficiency and heat treatment, J. Sens. Sci. Technol. Vol. 29, No. 1 (2020).<a href="https://doi.org/10.5369/JSST.2019.29.1.1">DOI:10.5369/JSST.2019.29.1.1</a> 
 
 `2020`
 M. Meng, P. G. Le, E. Uwiragiye, **T. L. Pham**, J. G. Fisher*, J.-S. Lee, B. W. Lee, J. H. Ko, H. P. Kim, W. Jo,  Growth of 0.96(K0.48Na0.52)(Nb0.95Sb0.05)O3-0.04Bi0.5(Na0.82K0.18)0.5ZrO3 lead-free piezoelectric single crystals by solid state crystal growth and their characterization, J. Korean Ceram. Soc., submitted.
