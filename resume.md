@@ -11,7 +11,7 @@ Room 211, Engineering Building No.6 <br/>
 School of Materials Science and Engineering <br/>
 Chonnam National University, Gwangju, Korea <br/>
 <a href="thuylinhbkhn@gmail.com">thuylinhbkhn@gmail.com</a><br/> 
-+82-62-530-0771/ +82-10-8991-0819</a><br/>
++82-62-530-0771/ +82-10-8991-0819 <br/>
 <a href="https://thuylinhpham.github.io">https://thuylinhpham.github.io</a><br/>
 <a href="https://orcid.org/0000-0002-7393-5283">https://orcid.org/0000-0002-7393-5283</a><br/>
 <a href="https://sites.google.com/site/jnuelectroceramics">https://sites.google.com/site/jnuelectroceramics</a><br/>
