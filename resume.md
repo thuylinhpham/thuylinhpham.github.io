@@ -10,12 +10,11 @@ Electroceramics Laboratory <br/>
 Room 211, Engineering Building No.6 <br/>
 School of Materials Science and Engineering <br/>
 Chonnam National University, Gwangju, Korea <br/>
-
-<a href="thuylinhbkhn@gmail.com">thuylinhbkhn@gmail.com</a>+82-62-530-0771/ +82-10-8991-0819
+<a href="thuylinhbkhn@gmail.com">thuylinhbkhn@gmail.com</a><br/>
++82-62-530-0771/ +82-10-8991-0819
 <div id="webaddress">
 <a href="https://orcid.org/0000-0002-7393-5283"> ORCID </a><br/>
 </div>
-
 <div id="webaddress">
   <a href="https://sites.google.com/site/jnuelectroceramics"><i class="fas fa-users"></i> Electroceramics Laboratory (group)</a><br/>
 </div>
@@ -97,7 +96,7 @@ S. C. Eum, D. S. Kim, **T. L. Pham**, J.-S. Lee, J. K. Lee*, Synthesis of nanosc
 E. Uwiragiye, M. U. Farooq, S.-H. Moon, **T. L. Pham**, D. T. Nguyen, J.-S. Lee*, J. G. Fisher*, High performance lead-free piezoelectric 0.96(K0.48Na0.52)NbO3-0.03[Bi0.5(Na0.7K0.2Li0.1)0.5]ZrO3-0.01(Bi0.5Na0.5)TiO3 single crystals grown by solid state crystal growth and their phase relations, J. Eur. Ceram. Soc. 37 4597-4607 (2017). <a href="https://doi.org/10.1016/j.jeurceramsoc.2017.06.015">DOI:10.1016/j.jeurceramsoc.2017.06.015</a>
 
 `2016`
-D. Lee, H. Vu, H. Sun, **T. L. Pham**, D. T. Nguyen, J.-S. Lee, J. G. Fisher*, Growth of (Na0.5Bi0.5)TiO3-SrTiO3 single crystals by solid state crystal growth, Ceram. Int. 42 18894-18901 (2016). <a href="https://dx.doi.org/10.1016/10.1016/j.ceramint.2016.09.038">DOI:10.1016/j.ceramint.2016.09.038</a>
+D. Lee, H. Vu, H. Sun, **T. L. Pham**, D. T. Nguyen, J.-S. Lee, J. G. Fisher*, Growth of (Na0.5Bi0.5)TiO3-SrTiO3 single crystals by solid state crystal growth, Ceram. Int. 42 18894-18901 (2016). <a href="https://dx.doi.org/10.1016/j.ceramint.2016.09.038">DOI:10.1016/j.ceramint.2016.09.038</a>
 
 ## Languages
 
