@@ -12,11 +12,11 @@ School of Materials Science and Engineering <br/>
 Chonnam National University, Gwangju, Korea <br/>
 <a href="thuylinhbkhn@gmail.com">thuylinhbkhn@gmail.com</a><br/> 
 +82-62-530-0771/ +82-10-8991-0819
+
+<a href="thuylinhpham.github.io"> thuylinhpham.github.io </a>  - <a href="github.com/thuylinhpham"> thuylinhpham </a> 
+
 <div id="webaddress">
-  <a href="github.com/thuylinhpham"> <i class="fas fa-github" aria-hidden="true"></i> thuylinhpham </a>
-</div>
-<div id="webaddress">
-<a href="https://orcid.org/0000-0002-7393-5283"> ORCID </a> <a href="github.com/thuylinhpham"> <i class="fas fa-github" aria-hidden="true"></i> </a> <br/>
+<a href="https://orcid.org/0000-0002-7393-5283"> ORCID </a><br/>
 </div>
 <div id="webaddress">
   <a href="https://sites.google.com/site/jnuelectroceramics"><i class="fas fa-users"></i> Electroceramics Laboratory (group)</a><br/>
