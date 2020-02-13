@@ -18,11 +18,11 @@ Chonnam National University, Gwangju, Korea <br/>
 
 ## Education
 
-`2015-Present`
+`September 1, 2015-Present`
 **M.S-Ph.D., Materials Science and Engineering**, *Chonnam National University*, Buk-gu, Gwangju, Korea.
  <a href="https://global.jnu.ac.kr/jnumain_en.aspx">https://global.jnu.ac.kr/jnumain_en.aspx</a><br/>
 
-`2010-2015`
+`September 1, 2010-January 26, 2016`
 **B.E., Chemical Engineering**, *Hanoi University of Science and Technology*, Hanoi, Vietnam.<br/>
  <a href="https://en.hust.edu.vn/">https://en.hust.edu.vn</a><br/>
 
@@ -74,6 +74,11 @@ Chonnam National University, Gwangju, Korea <br/>
 **Impedance spectroscopy on dual-phase composites: LSCF vs. LSM in GDC matrix below percolation threshold**, *Inorganic Membrance School*, September 23-25, 2015, Valencia, **Spain**. *Poster presentation*.
 
 ## Publications
+`2020`
+**T. L. Pham**, N. Shin, H. Bae, S.-J. Song, J.-S. Lee*, Python-assisted kinetic analysis of electrical conductivity relaxations:A case study of La0.8Sr0.2FeO3-x, in preparation.
+
+**T. L. Pham**, J. H. Yu, J.-S. Lee*, Phase transition characteristics revealed by conductivity measurementsof La0.6Sr0.4Co0.2Fe0.8O3−x vs. La0.7Sr0.3MnO3−x in Ce0.9Gd0.1O2−x matrix: Application to dual-phase oxygen transport membranes, in preparation.
+
 `2020`
 J. W. Sul, Y. Kim*, **T. L. Pham**, J.-S. Lee, Syntheses and characterizations of complex perovskite oxynitrides, (Ca,Sr,Ba)TaO2N, J. Korean Ceram. Soc., submitted. 
 
