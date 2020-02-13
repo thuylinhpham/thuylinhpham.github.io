@@ -75,7 +75,7 @@ Chonnam National University, Gwangju, Korea <br/>
 
 ## Publications
 `2020`
-**T. L. Pham**, N. Shin, H. Bae, S.-J. Song, J.-S. Lee*, Python-assisted kinetic analysis of electrical conductivity relaxations:A case study of La0.8Sr0.2FeO3-x, in preparation.
+**T. L. Pham**, N. Shin, H. Bae, S.-J. Song, J.-S. Lee*, Python-assisted kinetic analysis of electrical conductivity relaxations: A case study of La0.8Sr0.2FeO3-x, in preparation.
 
 `2020`
 **T. L. Pham**, J. H. Yu, J.-S. Lee*, Phase transition characteristics revealed by conductivity measurementsof La0.6Sr0.4Co0.2Fe0.8O3−x vs. La0.7Sr0.3MnO3−x in Ce0.9Gd0.1O2−x matrix: Application to dual-phase oxygen transport membranes, in preparation.
