@@ -15,7 +15,7 @@ Chonnam National University, Gwangju, Korea <br/>
 <a href="https://thuylinhpham.github.io">https://thuylinhpham.github.io</a><br/>
 <a href="https://orcid.org/0000-0002-7393-5283">https://orcid.org/0000-0002-7393-5283</a><br/>
 <a href="https://sites.google.com/site/jnuelectroceramics">https://sites.google.com/site/jnuelectroceramics</a><br/>
-
+<a href="https://www.linkedin.com/in/thuy-linh-pham-883a31161/">LinkedIn</a><br/>
 ## Education
 
 `September 1, 2015-Present`
